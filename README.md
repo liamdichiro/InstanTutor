@@ -5,5 +5,6 @@
 4. Use student login: username: student_test_1, password: student_test_1_pwd
 5. Tutor logins: username: luke, password: luke123456789, username: liam, password: liam123456789, username: nic, password: nic123456789, username: tiff, password: tiff123456789
 
+Functionality: Students will be paired up with tutors in a video chat if they have chosen the same subject. (so log in on multiple tabs)
 
-7. Have fun!
+Have Fun 
