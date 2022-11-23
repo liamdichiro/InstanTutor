@@ -12,4 +12,6 @@
 
 Functionality: Students will be paired up with tutors in a video chat if they have chosen the same subject. (so log in on multiple tabs)
 
+Note: you will have to update the agoro.io app keys to access the video functionality.
+
 Have Fun 
